@@ -1,0 +1,4 @@
+[Project]
+Name=WordNetTest
+Manager=KDevCMakeManager
+VersionControl=kdevgit
